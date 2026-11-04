@@ -1,0 +1,4 @@
+interface:
+  display_name: "MagineCanvas Fight Director"
+  short_description: "AI 打戏动作设计、分镜、提示词与无限画布生产规划"
+  default_prompt: "使用 $maginecanvas-fight-director 设计电影级打戏，并给出 MagineCanvas 节点制作方案。"
